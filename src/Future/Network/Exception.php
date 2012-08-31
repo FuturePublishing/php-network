@@ -1,7 +1,6 @@
 <?php
-
 /**
- * @copyright 2012 Future Publishing Ltd
+ * @copyright 2012 Future Publishing Ltd and Joseph Ray
  * @license   http://opensource.org/licenses/mit-license.php/ MIT
  */
 
