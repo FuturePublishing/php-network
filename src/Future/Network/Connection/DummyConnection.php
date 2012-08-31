@@ -17,7 +17,7 @@ class DummyConnection implements \Future\Network\Connection
     /**
      * Sends data no-where
      *
-     * @param string $data
+     * @param string $data The data to send
      *
      * @return void
      */
